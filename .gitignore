@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Environment
+.env
+
+# Logs
+logs/
+*.log
+
+# Data & Models
+data/uploads/
+data/faiss_index/
+
+# Huggingface cache
+~/.cache/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
